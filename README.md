@@ -2,7 +2,7 @@
 
 Before go to detail of the algorithm, it is necessary to understand the structure of a quad-tree. In fact, it is similar to a binary tree, except each node has 4 childrens and can be demonstrated by a 2D plane
 
-![screenshot](https://github.com/ntta/barnes-hut-algorithm/blob/master/quadtreeEx.gif)
+![screenshot](/quadtreeEx.gif)
 
 ## Barnes-Hut Algorithm
 The algorithm to compute the force on a particle was first proposed in 1986 by Barnes and Hut:
