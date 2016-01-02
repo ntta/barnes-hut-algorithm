@@ -168,5 +168,5 @@ if __name__ == '__main__':
     plt.scatter(root.center_of_mass[0], root.center_of_mass[1], c='r', marker='x', s=50)
     display(root)
     print 'Theta: ', theta
-    print 'Force interact on particle [0,0,100]:', compute_force(root, 0, 0, 100)
+    print 'Force interact on particle [0,0,5.972e20]:', compute_force(root, 0, 0, 5.972e20)
     plt.show()
